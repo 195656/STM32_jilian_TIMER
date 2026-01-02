@@ -1,0 +1,17 @@
+# Keil 编译生成的临时文件
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.sct
+*.dep
+
+# STM32CubeIDE/Makefile 临时文件
+Debug/
+Release/
+build/
+.mxproject
